@@ -52,3 +52,25 @@ vowels.sort(reverse=True)
 
 # print vowels
 print('Sorted list (in Descending):', vowels)
+
+
+
+languages = ['Python', 'Swift', 'C++']
+
+# iterating through the list
+for language in languages:
+    print(language)
+
+    nums = [1, 2, 3, 4, 5, 6]
+    for num in nums:
+        print(num)
+print(8 in nums)
+print(len(nums))
+
+
+
+numbers = [num*num for num in range(1,7)]
+print(numbers)
+
+numbers2 = [num for num in range(1,4)]
+print(numbers2)
