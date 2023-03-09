@@ -57,3 +57,9 @@ print()
 
 for count, item in enumerate(grocery, 100):
     print(count, item)
+
+print(len(grocery))
+print(max(grocery))
+
+numbers2 = [4, 2, 12, 8]
+print(sorted(numbers2))
