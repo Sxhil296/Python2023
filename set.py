@@ -63,3 +63,8 @@ print(max(grocery))
 
 numbers2 = [4, 2, 12, 8]
 print(sorted(numbers2))
+
+print()
+
+py_set = {'e', 'a', 'u', 'o', 'i'}
+print(sorted(py_set, reverse=True))
