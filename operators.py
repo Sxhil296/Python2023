@@ -55,3 +55,17 @@ print()
 #logical NOT operator
 print(not True)
 print(not False)
+
+x = 10 #0000 1010
+y = 4 #0000 0100
+print(x & y) #0
+print(x | y) #14
+print(~ y) #-5
+print(x ^ y) #14
+print(x>>2) #2
+print(x<<2) #40
+
+#identity operator
+x1= 5
+y1 = 5
+print(x1 is y1)
