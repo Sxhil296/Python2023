@@ -73,6 +73,71 @@
 #     print(i)
 
 
+# my_list = [1,2,3,4,5,6,7,8]
+# print(my_list)
+# for i in my_list:
+#     print(i)
+# my_list.append(9)
+# print(my_list)
+# print()
+# vowel = ['a', 'e', 'i', 'u']
+# print(vowel)
+# vowel.insert(3, 'o')
+# print(vowel)
+# print()
+
+
+
+
+# nums = [1, 2, 3, 4, 'five', 5]
+# print(nums)
+# nums.remove(1)
+# print(nums)
+
+
+
+
+
+# prime_numbers = [2, 3, 5, 7]
+# print(prime_numbers)
+# new_list = prime_numbers.pop(2)
+# print(new_list)
+# print(prime_numbers)
+
+
+
+# tuple = (1, 3, 5, 7, 9)
+# print(len(tuple))
+
+
+
+
+# myset = {2,4,4,6,8,9,20}
+# print(myset)
+
+
+
+
+
+# newlist = [2,3,4,5,6,7,7,8,8,9]
+# print(newlist)
+# newlist = set(newlist)
+# print(newlist)
+
+
+
+# myDictionary = {"name": "Sahil", "age": 20, "course": "Btech"}
+# print(myDictionary)
+# print(myDictionary["name"])
+# myDictionary["university"] = "AKTU"
+# print(myDictionary)
+# myDictionary["age"] = 26
+# print(myDictionary)
+
+
+
+
+
 
 
 
