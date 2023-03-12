@@ -31,3 +31,48 @@
 #     print(x)
 
 
+
+# for i in range(6): #till 6 (not include 6)
+#     print(i)
+
+
+
+
+# print()
+
+
+
+# list = ['Python', 'Java', 'JavaScript']
+# for item in list:
+#     print(item)
+
+
+
+
+# for i in range(1, 11):
+#     print(i)
+
+
+
+# for i in range(1, 20, 2):
+#     print(i)
+
+
+
+# word = "Python is love."
+# for i in word:
+#     if i == " " or i == '.':
+#         continue
+#     print(i)
+
+
+# word = "Python is love."
+# for i in word:
+#     if i == "n":
+#        break
+#     print(i)
+
+
+
+
+
